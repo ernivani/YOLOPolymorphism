@@ -1,0 +1,113 @@
+Program location = ./Trivial-Polymorphism-2.0
+New function length = 9
+New function length = 19
+New function length = 8
+mutex = ./Trivial-Polymorphism-2.0.mutex
+function count = 3
+function = UCRaEHcBC
+function = QdZ8qd56awFmvZ8xKg1
+function = v8T5Dv4F
+New data count: 1024
+Increased by: 1024
+Entry search = function1
+Entry search = function2
+Entry search = newFunctionNames
+New data count: 2048
+Increased by: 1024
+Entry search = function1
+Entry search = function2
+Entry search = newFunctionNames
+New data count: 2048
+Increased by: 1024
+Entry search = function1
+Entry search = function2
+Entry search = newFunctionNames
+New data count: 2048
+Increased by: 1024
+Entry search = function1
+Entry search = function2
+Entry search = newFunctionNames
+New data count: 2048
+Increased by: 1024
+Entry search = function1
+Entry search = function2
+Entry search = newFunctionNames
+New data count: 2048
+Increased by: 1024
+Entry search = function1
+Entry search = function2
+Entry search = newFunctionNames
+New data count: 2048
+Increased by: 1024
+Entry search = function1
+Entry search = function2
+Entry search = newFunctionNames
+New data count: 2048
+Increased by: 1024
+Entry search = function1
+Entry search = function2
+Entry search = newFunctionNames
+New data count: 2048
+Increased by: 1024
+Entry search = function1
+Entry search = function2
+Entry search = newFunctionNames
+New data count: 2048
+Increased by: 1024
+Entry search = function1
+Entry search = function2
+Entry search = newFunctionNames
+New data count: 2048
+Increased by: 1024
+Entry search = function1
+Entry search = function2
+Entry search = newFunctionNames
+New data count: 2048
+Increased by: 1024
+Entry search = function1
+Entry search = function2
+Entry search = newFunctionNames
+New data count: 2048
+Increased by: 1024
+Entry search = function1
+Entry found! function1
+Replaced by: UCRaEHcBC
+Entry search = function2
+Entry found! function2
+Replaced by: QdZ8qd56awFmvZ8xKg1
+Entry search = newFunctionNames
+Entry found! newFunctionNames
+Replaced by: v8T5Dv4F
+New data count: 2048
+Increased by: 1022
+Entry search = function1
+Entry search = function2
+Entry search = newFunctionNames
+New data count: 2048
+Increased by: 1024
+Entry search = function1
+Entry found! function1
+Replaced by: UCRaEHcBC
+Entry search = function2
+Entry found! function2
+Replaced by: QdZ8qd56awFmvZ8xKg1
+Entry search = newFunctionNames
+Entry found! newFunctionNames
+Replaced by: v8T5Dv4F
+New data count: 2048
+Increased by: 1022
+Entry search = function1
+Entry search = function2
+Entry search = newFunctionNames
+New data count: 1812
+Increased by: 788
+Entry search = function1
+Entry search = function2
+Entry search = newFunctionNames
+Last page was: 1812
+A beautiful function!
+A beautiful function!
+A beautiful function!
+A beautiful function!
+An ugly function!
+Mutex created!
