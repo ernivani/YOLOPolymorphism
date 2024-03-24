@@ -31,7 +31,7 @@ char* newFunctionNames(){
 	for (i = 0; i < functionCount; i++){
 		// Generate new name.
 		int k;
-		int tmpLength = MIN_FUNCTION_NAME+(rand() % (MAX_FUNCTION_NAME-MIN_FUNCTION_NAME));
+		int tmpLength = strlen(functionList[i]);// MIN_FUNCTION_NAME+(rand() % (MAX_FUNCTION_NAME-MIN_FUNCTION_NAME));
 		printf("New function length = %d\n", tmpLength); // Was: strlen(functionList[i])
 		for (k = 0; k < tmpLength; k++){
 			int tmp = rand() % (26+26+10);
